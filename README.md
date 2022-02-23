@@ -14,3 +14,5 @@ As you can see heart disease is a serious issue being the leading cause of death
 Machine learning can help find patterns in data and in this case help predict if someone has heart disease.
 
 ![image](https://user-images.githubusercontent.com/63553397/155337254-a7ed354d-308e-40be-9cbc-63b9b38e7c8d.png)
+
+![image](https://user-images.githubusercontent.com/63553397/155337445-d8272034-35ca-4883-9e6b-434cfaf207f5.png)
