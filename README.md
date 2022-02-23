@@ -12,3 +12,5 @@ https://www.hopkinsmedicine.org/health/wellness-and-prevention/heart-conditions#
 As you can see heart disease is a serious issue being the leading cause of death for both American women and men. As was mentioned above, understanding the common symptoms of heart disease can help, that is where machine learning comes in.
 
 Machine learning can help find patterns in data and in this case help predict if someone has heart disease.
+
+![image](https://user-images.githubusercontent.com/63553397/155337254-a7ed354d-308e-40be-9cbc-63b9b38e7c8d.png)
