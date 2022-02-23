@@ -1,4 +1,4 @@
-# Heart-disease-using-R
+# Heart-disease-prediction-using-R
 Heart disease accounts for 1 in every 4 deaths in the U.S., according to the Centers for Disease Control and Prevention (CDC). It is the leading cause of death for both American women and men.
 
 Cardiovascular disease includes stroke, coronary heart disease, high blood pressure and rheumatic heart disease. The most common type of heart condition is coronary heart disease, according to the CDC.
